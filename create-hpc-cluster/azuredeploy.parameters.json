@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "clusterName": {
-      "value": "GEN-UNIQUE-12"
+      "value": "azuretest"
     },
     "privateDomainName": {
       "value": "hpc.local"
@@ -21,10 +21,10 @@
       "value": 2
     },
     "computeNodeVMSize": {
-      "value": "Standard_A3"
+      "value": "Standard_A9"
     },
     "adminUsername": {
-      "value": "azureuser"
+      "value": "superuser"
     },
     "adminPassword": {
       "value": "GEN-PASSWORD"
